@@ -1,6 +1,6 @@
 [info]
 title=Remove Greek Accents
-desc=Replace Greek letters with accents with letters without accents
+desc=Replaces Greek letters with accents - to similar letters without accents
 type=cudatext-plugin
 subdir=cuda_remove_greek_accents
 homepage=https://github.com/CudaText-addons/cuda_remove_greek_accents
