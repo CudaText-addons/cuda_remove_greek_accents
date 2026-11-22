@@ -1,3 +1,5 @@
+2026.11.21
+- fix: avoid deprecated API
 
 2019.04.09
 initial version
